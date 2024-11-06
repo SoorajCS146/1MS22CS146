@@ -17,7 +17,7 @@ I am passionate about Data Science, Problem Solving, and Machine Learning.
 - **Neon Implementation**
   - Worked with ARM processors
   - Optimized Image Processing Algorithms  
-  **Rating**: ★★★★
+  **Rating**: ★★★
 
 - **K-means Clustering Algorithm Optimization**
   - Used cumulative probabilities to improve K-means
